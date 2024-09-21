@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://spacemen88.github.io/gacor/sitemap.xml
